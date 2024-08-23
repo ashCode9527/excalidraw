@@ -33,3 +33,11 @@
   style: normal;
   display: swap;
 }
+
+@font-face {
+  font-family: "Yutong";
+  src: url(./Yutong.ttf) format("truetype");
+  style: normal;
+  display: swap;
+}
+
